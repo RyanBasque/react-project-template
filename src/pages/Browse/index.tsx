@@ -1,5 +1,5 @@
 const Browse = (): JSX.Element => {
-  return <div>Browse</div>
-}
+  return <div>Browse</div>;
+};
 
-export default Browse
+export default Browse;
