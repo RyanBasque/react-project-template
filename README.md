@@ -14,25 +14,24 @@ yarn start
 This will install the necessary dependencies and start the development server.
 
 ##Project Structure
-├── public
-│ ├── index.html
-│ └── favicon
-├── src
-│ ├── components
-│ ├── pages
+├── public <br />
+│ ├── index.html <br />
+│ └── favicon <br />
+├── src <br />
+│ ├── components <br />
+│ ├── pages <br />
 │ ├── styles
-│ ├── routes
-│ ├── utils
-│ ├── context
-│ ├── assets
+│ ├── routes<br />
+│ ├── utils<br />
+│ ├── context<br />
+│ ├── assets <br />
 │ ├── index.tsx
-│ └── ...
-├── .gitignore
-├── .prettierrc
-├── .editorconfig
-├── .eslintrc
-├── tsconfig.json
-├── package.json
+├── .gitignore <br />
+├── .prettierrc<br />
+├── .editorconfig<br />
+├── .eslintrc <br />
+├── tsconfig.json <br />
+├── package.json <br />
 
 public: This directory contains static assets that are served by the development and production servers. The main HTML file (index.html) is also located here.
 src: This directory contains the source code for the application.
