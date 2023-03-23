@@ -33,15 +33,15 @@ This will install the necessary dependencies and start the development server.
 ├── tsconfig.json <br />
 ├── package.json <br />
 
-public: This directory contains static assets that are served by the development and production servers. The main HTML file (index.html) is also located here.
-src: This directory contains the source code for the application.
-components: This directory contains reusable components used throughout the application.
-pages: This directory contains the main pages of the application.
-styles: This directory contains global styles that are applied to the entire application.
-index.tsx: This is the entry point of the application, which renders the App component.
-.gitignore: This file lists files and directories that should be ignored by Git.
-package.json: This file lists the dependencies and scripts used by the application.
-tsconfig.json: This file list typescript configs of your project.
+public: This directory contains static assets that are served by the development and production servers. The main HTML file (index.html) is also located here. <br />
+src: This directory contains the source code for the application.<br />
+components: This directory contains reusable components used throughout the application.<br />
+pages: This directory contains the main pages of the application.<br />
+styles: This directory contains global styles that are applied to the entire application.<br />
+index.tsx: This is the entry point of the application, which renders the App component.<br />
+.gitignore: This file lists files and directories that should be ignored by Git.<br />
+package.json: This file lists the dependencies and scripts used by the application.<br />
+tsconfig.json: This file list typescript configs of your project.<br />
 
 # Available Scripts
 
