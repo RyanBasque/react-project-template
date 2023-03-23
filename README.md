@@ -20,12 +20,12 @@ This will install the necessary dependencies and start the development server.
 ├── src <br />
 │ ├── components <br />
 │ ├── pages <br />
-│ ├── styles
+│ ├── styles <br />
 │ ├── routes<br />
 │ ├── utils<br />
 │ ├── context<br />
 │ ├── assets <br />
-│ ├── index.tsx
+│ ├── index.tsx <br />
 ├── .gitignore <br />
 ├── .prettierrc<br />
 ├── .editorconfig<br />
